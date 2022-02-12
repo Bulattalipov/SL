@@ -1,0 +1,12 @@
+body{
+  font-size: 18px;
+  line-height: 150%;
+  @extend %CeraPro-Bold;
+  position: relative;
+}
+
+.container{
+  max-width: 1326px;
+  padding: 0 56px;
+  margin: 0 auto;
+}
